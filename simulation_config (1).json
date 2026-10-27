@@ -1,0 +1,24 @@
+{ "seed" : 2026,
+"simulation_counts": [
+    1000,
+    5000
+],
+"scenarios" : [
+    {
+        "name": "scenario_1",
+        "inputs":{
+        "normal_delay_variance": {"distribution": "normal", "mean": 0, "stddev": 1},
+        "late_penalty": {"distribution": "gamma", "shape": 13.69, "scale": 0.5405}, 
+        "ASN_missing": { "distribution": "binomial", "n": 1, "p": 0.092}
+}    
+    },
+    {
+        "name": "scenario_2",
+        "inputs": {
+        "normal_delay_variance": {"distribution": "normal", "mean": 0, "stddev": 1},
+        "late_penalty": {"distribution": "gamma","shape": 2.0408,"scale": 0.98},
+        "ASN_missing": { "distribution": "binomial", "n": 1, "p": 0.092}            
+        }
+    }
+]
+}

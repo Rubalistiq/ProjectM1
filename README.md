@@ -5,7 +5,7 @@
 - `<Nathan Lantey>` | `<s3662012>` | `@<HunchoNate>`
 - `<Ruben Aalderink>` | `<s3954870>` | `@<Rubalistiq>`
 - `<Danieke Claus>` | `<s3952401>` | `@<44danieke>`
-- `<Matey Bechev>` | `<s3838838>` | `@<GitHub username>`
+- `<Matey Bechev>` | `<s3838838>` | `@<mateybechev-sys>`
 - `<Vladimir Rus>` | `<s3139905>` | `@<vladimirrus02>`
 
 - 
